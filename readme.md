@@ -11,6 +11,7 @@ explorer.exe a.svg
 
 先做一個.edn圖 編譯 看結果
 
+![a.edn](./examples/images/a.svg)
 
 之後可以了 開5個新.edn:
 
@@ -50,4 +51,11 @@ explorer.exe c.svg
 explorer.exe d.svg
 explorer.exe e.svg
 explorer.exe f.svg
+
+![b.edn](./examples/images/b.svg)
+![c.edn](./examples/images/c.svg)
+![d.edn](./examples/images/d.svg)
+![e.edn](./examples/images/e.svg)
+![f.edn](./examples/images/f.svg)
+
 
