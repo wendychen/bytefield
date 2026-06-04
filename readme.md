@@ -1,10 +1,12 @@
-# bytefield learning log
+# Bytefield Learning Log
 
-## installation
+## Installation
 
 ```bash
 npm install -g bytefield-svg
 ```
+
+## Shipping 1 .edn File
 
 ```bash
 vim a.edn
@@ -14,7 +16,10 @@ explorer.exe a.svg
 
 先做一個.edn圖 編譯 看結果
 
-![a.edn](./examples/images/a.svg)
+### a.svg
+![a.svg](./examples/images/a.svg)
+
+## Shipping Multiple .edn Files
 
 之後可以了 開5個新.edn:
 
