@@ -1,0 +1,4 @@
+(def left-margin 1)
+(def boxes-per-row 4)
+(draw-column-headers)
+(draw-box 0)

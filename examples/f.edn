@@ -1,0 +1,1 @@
+(draw-related-boxes (number-as-bits (char->int \H) 8))
